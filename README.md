@@ -1,5 +1,6 @@
 Title: Covid19 Twitter Sentiment Analysis
 
+
 Description:
 This project focuses on conducting sentiment analysis on COVID-19 related data to understand public sentiments, emotions, and opinions surrounding the pandemic.
 The sentiment analysis was performed on a dataset containing COVID-19 related tweets  with the aim of gaining insights into the general public's attitudes and feelings towards the pandemic.
